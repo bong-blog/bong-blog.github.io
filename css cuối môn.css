@@ -431,7 +431,7 @@ hr{
 	text-align: center;
 }
 .contract{
-	padding: 80px 12% 0;
+	padding: 60px 12% 0;
 	float: left;
 }
 .dep{
@@ -452,6 +452,14 @@ hr{
 .hang1, .hang2, .hang3{
 	float: right;
 	margin-left: 4px;
+}
+.gui{
+	font-family: 'Patrick Hand', cursive;
+	color: white;
+	background:  #474e2e;
+	padding: 5px;
+	text-align: center;
+	margin-left: 84%;
 }
 .footer{
 	background: #474e2e;
