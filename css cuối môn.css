@@ -1,0 +1,491 @@
+@charset "utf-8";
+/* CSS Document */
+*{	padding: 0;
+	margin: 0;}
+.logo{
+	width: 165px;
+	padding: 9px 150px 0;
+	float: left;
+}
+.nav{
+	background: #3d4327;
+	height: 90px;
+	width: 100%;
+	position: fixed;
+	z-index: 99;
+	font-family: 'Patrick Hand', cursive;
+}
+.haha{
+	display: inline;
+	color: white;
+	padding: 16px;
+	font-size: 17px
+}
+.dau{
+	padding: 35px 20px;
+	text-align: center;
+}
+.lh{
+	border: 2px solid #FFFFFF;
+	border-radius: 28px;
+	padding: 10px 20px;
+	display: inline;
+	color: white;
+	font-size: 17px
+}
+	
+.canle{
+	margin: 0 13%;
+}
+.set1{
+	background-image: url(hoahd.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 721px;
+	opacity: 0.9;
+}
+.tieude{
+	width: 440px;
+	padding-top: 190px;
+}
+.tieudephu{
+	font-family: 'Patrick Hand', cursive;
+	padding-bottom: 10px;
+	font-size: 15px;
+	margin-right: 53%;
+	text-align: justify;
+	color: white;
+}
+.name1, .name2{
+	padding: 8px;
+	width: 190px;
+	border: none;
+	background: white;
+	opacity: 0.6;
+	font-size: 15px;
+	font-family: 'Patrick Hand', cursive;
+}
+.name1{
+	margin-left:  13%;
+}
+.khung{
+	color: white;
+	background: #3d4327;
+	font-family: 'Patrick Hand', cursive;
+	padding: 8px 12px 8px 12px;
+	text-align: center;
+	font-size: 15px;
+	display: inline;
+}
+.dkn{
+	margin-top: 20px;
+	
+}
+.set2{
+	background: #f0eadc;
+	height: 700px;
+}
+.trai{
+	margin-left: 60px;
+}
+.doiloi{
+	padding-top: 260px;
+	font-size: 45px;
+	text-align: center;
+	color: #3d4327;	
+}
+.p1, .p2{
+	text-align: justify;
+	padding-top: 20px;
+}
+.hinh1{
+	height: 250px;
+	object-fit: cover;
+	margin-top: 100px;
+	position: absolute;
+	left: 117px;
+	border: 3px solid #f0eadc;
+	padding: 6px 25px 6px 6px ;
+}
+.hinh2{
+	height: 500px;
+	object-fit: cover;
+	margin-top: 120px;
+	position: relative;
+	left: 277px;
+}
+.hinh3{
+	height: 250px;
+	object-fit: cover;
+	margin-top: 370px;
+	position: absolute;
+	left: 541px;
+	border: 3px solid #474e2e;
+	padding: 6px 6px 6px 25px;
+}
+.huongduong{
+	background: #474e2e;
+	height: 400px;
+	width: 410px;
+	float: left;
+	position: relative;
+}
+.p1, .p2, .doiloi, .dk{
+	padding-left: 40%;
+	font-family: 'Patrick Hand', cursive;
+}
+.set3{
+	background: #474e2e;
+	height: 710px;
+}
+.dk{
+	color: #474e2e;
+	float: right;
+	padding-top: 10px;
+}
+.b1, .b2, .b3, .b4, .b5, .b6{
+	background: #f0eadc;
+	height: 280px;
+	width: 240px;
+	margin: 0 40px;
+}
+.b2, .b4, .b6{
+	margin-top: 20px;
+}
+.a1, .a2, .a3{
+	padding: 100px 0 0;
+	float: left;
+	font-family: 'Patrick Hand', cursive;
+}
+.a1{
+	margin-left: 19%;
+}
+.anh{
+	height: 180px;
+	object-fit: cover;
+	width: 240px;
+}
+h6{
+	text-align: center;
+	margin-top: 10px;
+	background: #474e2e;
+	padding: 5px;
+	color: white;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+h4{
+	margin: 2px 13px;
+	text-align: center;
+	font-size: 18px;
+}
+.set3{
+	position: relative;
+}
+.a0{
+	position: absolute;
+	top: 100px;
+	color: #474e2e;
+	background:  #f0eadc;
+	padding: 10px 28px;
+	border-radius: 0 0px 0px 0;
+	font-size: 20px;
+	font-family: 'Patrick Hand', cursive;
+}
+.a00{
+	position: absolute;
+	top: 100px;
+	color: #f0eadc;
+	background:  #474e2e;
+	opacity: 0.9;
+	padding: 10px 15px;
+	border-radius: 0 0px 0px 0;
+	font-size: 20px;
+	font-family: 'Patrick Hand', cursive;
+}
+.duoi{
+	top: 656px;
+	left: 80%;
+}
+.trich{
+	font-size: 12px;
+}
+.set4{
+	background-image: url("oxana-lyashenko-07eCb8SVGus-unsplash.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 710px;
+	position: relative;
+}
+.truyen{
+	background: #474e2e;
+	height: 555px;
+	width: 470px;
+	float: left;
+	position: absolute;
+	left: 970px;
+	top: 100px;
+	opacity : 0.9;
+}
+.chu1{
+	color:white;
+	margin: 15px 60px 0;
+	text-align: justify;
+	font-family: 'Patrick Hand', cursive;
+}
+.chu{
+	margin: 20px 60px;
+	color: white;
+	text-align: justify;
+	font-family: 'Patrick Hand', cursive;
+}
+.tam{
+	margin: 45px 60px 0;
+	text-align: center;
+	font-size: 35px;
+	color: white;
+	border-bottom: 1px white; 
+	font-family: 'Patrick Hand', cursive;
+}
+hr{
+	margin: 10px 145px 0;
+}
+.set5{
+	background: #f0eadc;
+	height: 700px;
+}	
+.c1, .c2{
+	background: black;
+	height: 250px;
+	width: 250px;
+	margin: 0 90px;
+}
+.c2{
+	margin-top: 20px;
+}
+.banh1{
+	padding: 100px 0 0;
+	float: right;
+	position: relative;
+}
+.banh2{
+	background: white;
+	height: 330px;
+	width: 300px;
+	float: right;
+	position: absolute;
+	left: 60%;
+	margin-top: 210px;
+	border: 6px solid white;
+}
+.c3{
+	height: 330px;
+	width: 300px;
+	object-fit: cover;
+}
+.c4{
+	height: 250px;
+	width: 250px;
+	object-fit: cover;
+	border: 5px solid white;
+	
+}
+.nd{
+	margin-right: 50%;
+	color: white;
+	padding-top: 20px;
+	font-size: 18px;
+	text-align: justify;
+	font-family: 'Patrick Hand', cursive;
+}
+.to{
+	color: #f0eadc;
+	background: #474e2e;
+	padding: 10px 33px;
+	float: left;
+	font-size: 20px;
+	font-family: 'Patrick Hand', cursive;
+}
+.nen{
+	background: #474e2e;
+	height: 240px;
+	width: 100%;
+}
+.bbl{
+	margin-top: 95px;
+	font-size: 45px;
+	color: #3d4327;
+	font-family: 'Patrick Hand', cursive;
+}
+.xemthem{
+	color: #474e2e;
+	background: white;
+	padding: 8px;
+	text-align: center;
+	margin-right: 76%;
+	border-radius: 28px;
+	margin-top: 25px;
+	font-family: 'Patrick Hand', cursive;
+}
+.khoqua{
+	padding-top: 100px
+}
+.set6{
+	background: #474e2e; 
+	height: 700px;
+}
+.tarot{
+	border-radius: 200px 200px 0 0;
+	width: 240px;
+	padding: 10px;
+	border: 6px double white;
+}
+.hoa{
+	width: 270px;
+}
+.fool{
+	position: relative;
+	float: left;
+	margin: 20px 9% 0;
+}
+.lan{
+	position: absolute;
+	margin: 325px 11% 0;
+}
+.ngam{
+	color: #474e2e;
+	background: #f0eadc;
+	padding: 10px 40px;
+	float: left;
+	font-size: 20px;
+	font-family: 'Patrick Hand', cursive;
+}
+.the{
+	padding-top: 100px;
+}
+.lb{
+	color: white;
+	font-family: 'Patrick Hand', cursive;
+	font-size: 50px;
+}
+.tf{
+	color: white;
+	font-family: 'Patrick Hand', cursive;
+	font-size: 25px;
+}
+.kekho{
+		color: white;
+	font-family: 'Patrick Hand', cursive;
+	text-align: justify;
+	padding-top: 10px;
+}
+.longbong{
+	margin-right: 20%;
+	margin-left: 52%;
+	margin-top: 20px;
+}
+.set7{
+	background: #f0eadc;
+	height: 444px;
+}
+.lh1, .lh2{
+	padding: 8px;
+	width: 180px;
+	border: none;
+	background: white;
+	font-size: 15px;
+	font-family: 'Patrick Hand', cursive;
+	
+}
+
+.lh3{
+	margin-top: 5px;
+	padding: 8px;
+	width: 380px;
+	border: none;
+	background: white;
+	font-size: 15px;
+	font-family: 'Patrick Hand', cursive;
+}
+.lh4{
+	margin-top: 5px;
+	padding: 8px;
+	width: 380px;
+	height: 100px;
+	border: none;
+	background: white;
+	font-size: 15px;
+	font-family: 'Patrick Hand', cursive;
+}
+.lh0{
+	font-family: 'Patrick Hand', cursive;
+	color: black;
+	padding: 0px 0 10px;
+	font-size: 14px;
+	text-align: center;
+}
+.lh5{
+	font-family: 'Patrick Hand', cursive;
+	color: #474e2e;
+	font-size: 35px;
+	text-align: center;
+}
+.contract{
+	padding: 80px 12% 0;
+	float: left;
+}
+.dep{
+	height: 180px;
+	object-fit: cover;
+	width: 240px;
+}
+.dep1{
+	height: 260px;
+	object-fit: cover;
+	width: 240px;
+}
+.dep2{
+	object-fit: cover;
+	width: 240px;
+	height: 444px;
+}
+.hang1, .hang2, .hang3{
+	float: right;
+	margin-left: 4px;
+}
+.footer{
+	background: #474e2e;
+	height: 190px;
+}
+.cuoi{
+	width: 90px;
+	padding-left: 47%;
+	padding-top: 13px;
+}
+.hehe{
+	font-size: 12px;
+	display: inline;
+	padding: 0 8px;
+	color: #f0eadc;
+	opacity: 0.85;
+	font-family: 'Patrick Hand', cursive;
+}
+.het{
+	text-align: center;
+	margin-top: 10px;
+}
+.icon1{
+	width: 21px;
+	padding: 18px 8px;
+	opacity: 0.85;
+}
+.icon{
+	text-align: center;
+}
+.cham{
+	font-family: 'Patrick Hand', cursive;
+	font-size: 12px;
+	text-align: center;
+	color: #f0eadc;
+	opacity: 0.85;
+}
